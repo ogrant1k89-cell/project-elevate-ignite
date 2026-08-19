@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Project ELEVATE//IGNITE 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ignite-20260827@projectelevate.tt
+DTSTAMP:20260819T150000Z
+DTSTART;TZID=America/Port_of_Spain:20260827T130000
+DTEND;TZID=America/Port_of_Spain:20260827T150000
+SUMMARY:Project ELEVATE IGNITE
+LOCATION:Curepe Community Centre\, Southern Main Road\, Curepe
+DESCRIPTION:A celebration of growth\, courage and possibility. Dress code: Business Casual.
+END:VEVENT
+END:VCALENDAR
